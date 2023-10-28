@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\bin\Debug\ConsoleDers2.exe.config
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\bin\Debug\ConsoleDers2.exe
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\bin\Debug\ConsoleDers2.pdb
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\obj\Debug\ConsoleDers2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\obj\Debug\ConsoleDers2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\obj\Debug\ConsoleDers2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\obj\Debug\ConsoleDers2.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\obj\Debug\ConsoleDers2.exe
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\obj\Debug\ConsoleDers2.pdb
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\obj\Debug\ConsoleDers2.Migrations.mig1.resources
+C:\Users\ASUS\Desktop\ConsoleDers2\ConsoleDers2\obj\Debug\ConsoleDers2.csproj.GenerateResource.cache
